@@ -2,8 +2,8 @@
 **Senior FullStack Developer | Python Backend**
 
 gaon.alejandro.a@gmail.com  
-LinkedIn: linkedin.com/in/alejandro-ga%C3%B3n-0a22a0397/  
-GitHub: github.com/alegaonok  
+LinkedIn: [linkedin.com/in/alejandro-gaon](https://www.linkedin.com/in/alejandro-ga%C3%B3n-0a22a0397)
+GitHub: [github.com/alegaonok](https://github.com/alegaonok)
 
 ---
 
@@ -15,7 +15,7 @@ Desarrollador **FullStack con fuerte especialización en Backend Python**, con m
 
 ## Experiencia Profesional
 
-### Senior FullStack Developer –  Sistemas Clínicos  
+### FullStack Developer –  Sistemas Clínicos  
 *2023 – Actualidad*
 
 - Desarrollo de **plataformas clínicas**, con foco principal en **backend Python**.  
@@ -36,7 +36,7 @@ Desarrollador **FullStack con fuerte especialización en Backend Python**, con m
 - **Optimización de bases de datos de historias clínicas electrónicas**, logrando una **reducción del 40 % en tiempos de acceso** a historiales y resultados de laboratorio.  
 - **Desarrollo de módulos de evolución clínica virtual**, facilitando el seguimiento de pacientes.  
 - **Estandarización de intercambios HL7/FHIR**, aumentando la confiabilidad de integraciones.  
-- 🚀 **Reducción de ingreso de prestaciones en un 25 %** mediante automatización de despliegues y CI/CD. 
+- **Reducción de ingreso de prestaciones en un 25 %** mediante automatización de despliegues y CI/CD. 
 
 ---
 
@@ -76,7 +76,8 @@ Desarrollador **FullStack con fuerte especialización en Backend Python**, con m
 
 - Backend Python avanzado  
 - Interoperabilidad laboratorio–guardia  
-- Órdenes y recetas médicas digitales  
+- Órdenes y recetas médicas digitales
+
 ---
 
 ## Resumen Final
