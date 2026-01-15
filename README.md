@@ -17,6 +17,7 @@ El repositorio está diseñado para **exportar el CV a PDF, DOCX y HTML** a part
 │ └── export.sh
 └── assets/
 
+---
 
 ### Descripción de carpetas
 - **cv.md** → Fuente única del CV (Markdown)
