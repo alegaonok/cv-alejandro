@@ -7,6 +7,7 @@ El repositorio está diseñado para **exportar el CV a PDF, DOCX y HTML** a part
 
 ## 📄 Estructura del proyecto
 
+```
 ├── cv.md
 ├── README.md
 ├── exports/
@@ -16,6 +17,7 @@ El repositorio está diseñado para **exportar el CV a PDF, DOCX y HTML** a part
 ├── scripts/
 │ └── export.sh
 └── assets/
+```
 
 ---
 
